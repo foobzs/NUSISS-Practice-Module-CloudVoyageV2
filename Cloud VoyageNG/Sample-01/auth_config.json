@@ -1,0 +1,10 @@
+{
+  "domain": "dev-1s5szybjjh373s8d.au.auth0.com",
+  "clientId": "CjK8di4ynqwMPqzR1bw5bTJ7MwnoEGJU",
+  "authorizationParams": {
+    "audience": "https://dev-1s5szybjjh373s8d.au.auth0.com/api/v2/"
+  },
+  "apiUri": "http://localhost:3001",
+  "appUri": "http://localhost:4200",
+  "errorPath": "/error"
+}
